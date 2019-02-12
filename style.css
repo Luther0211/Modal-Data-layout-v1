@@ -26,6 +26,7 @@ ul {
   font-size: 15px;
   font-weight: bold;
   border-radius: 15px;
+  margin-left: 10px;
 }
 
 .move-list {
@@ -49,7 +50,7 @@ ul {
 }
 
 .grand {
-  width: 99%;
+  width: 100%;
   border-bottom: 1px solid rgb(216, 216, 216);
 }
 
